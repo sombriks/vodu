@@ -1,0 +1,19 @@
+{
+  "name": "vodu",
+  "version": "0.1.0",
+  "description": "vite wrapper for quick prototyping heavily inspired on budo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vite",
+    "prototype",
+    "budo"
+  ],
+  "author": "Leonardo Silveira <sombriks@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "vite": "^4.5.0"
+  }
+}
