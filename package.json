@@ -1,10 +1,14 @@
 {
   "name": "vodu",
+  "type": "module",
   "version": "0.1.0",
   "description": "vite wrapper for quick prototyping heavily inspired on budo",
   "main": "index.js",
+  "bin": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "npx .",
+    "test": "ava",
+    "test:coverage": "c8 npm test"
   },
   "keywords": [
     "vite",
@@ -15,5 +19,9 @@
   "license": "MIT",
   "dependencies": {
     "vite": "^4.5.0"
+  },
+  "devDependencies": {
+    "ava": "^5.3.1",
+    "c8": "^8.0.1"
   }
 }
