@@ -1,7 +1,7 @@
 {
   "name": "vodu",
   "type": "module",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "vite wrapper for quick prototyping heavily inspired on budo",
   "main": "index.js",
   "bin": "index.js",
