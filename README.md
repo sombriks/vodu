@@ -63,4 +63,8 @@ _UNDER CONSTRUCTION_
 
 ## roadmap
 
+[!] creates index.html if not exists (find a way to get rid of him)
+[X] calls vite dev server with minimal options
+[ ] injects templates for specific script types
+
 _UNDER CONSTRUCTION_
