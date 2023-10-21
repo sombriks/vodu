@@ -1,6 +1,8 @@
-# vodu
+# [vodu](https://github.com/sombriks/vodu)
 
-_UNDER CONSTRUCTION_
+![tests and coverage](https://github.com/sombriks/vodu/actions/workflows/node.js.yml/badge.svg)
+[![npm version](https://img.shields.io/npm/v/vodu?style=plastic)](https://www.npmjs.com/package/vodu)
+[![license](https://img.shields.io/github/license/sombriks/vodu.svg)](LICENSE)
 
 [vite](https://github.com/vitejs/vite) wrapper for quick prototyping heavily
 inspired on [budo](https://github.com/mattdesl/budo)
@@ -15,7 +17,7 @@ inspired on [budo](https://github.com/mattdesl/budo)
 # under construction, don't install it yet
 ```
 
-## usage examples
+## sample usage
 
 Runs vanilla javascript
 
@@ -41,14 +43,15 @@ Runs svelte component with reasonable defaults
 vodu index.svelte
 ```
 
-_UNDER CONSTRUCTION_
-
 ## what vodu is
 
 it's a small runner for your component.
 
-tired of large boilerplates, just want to test some quick idea? this is your
-tool!
+tired of large boilerplates?
+
+just want to test some quick idea?
+
+vodu is your tool!
 
 _UNDER CONSTRUCTION_
 
